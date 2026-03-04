@@ -1,0 +1,5 @@
+{
+  "name": "Pollution Reducing Emergency Vehicles in Traffic",
+  "description": "AI-powered traffic management that detects emergency vehicles and prioritizes green lights.",
+  "requestFramePermissions": []
+}
